@@ -1,2 +1,16 @@
-# chick-chat
-Chat application using React and Pusher's Chatkit
+#chick-chat 
+
+Quick start:
+
+```
+$ npm install
+$ npm run build
+````
+
+## Development
+
+Run Webpack in watch-mode to continually compile the JavaScript as you work:
+
+```
+$ npm run watch
+```
