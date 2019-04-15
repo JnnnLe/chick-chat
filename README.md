@@ -1,4 +1,5 @@
 #chick-chat 
+A chat application using React and Pusher's chatkit.
 
 Quick start:
 
