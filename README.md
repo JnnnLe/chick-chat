@@ -1,4 +1,4 @@
-#chick-chat 
+# chick-chat
 
 Quick start:
 
